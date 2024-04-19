@@ -1,2 +1,5 @@
-# Hotel-Management-System
-This is all About Hotel Management System
+# Hostel-Management-System
+This is our first collbrate Project
+yes accepted
+ok
+Hi, This is Mohit Gupta
